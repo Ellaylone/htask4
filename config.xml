@@ -41,8 +41,8 @@
     <preference name="SplashShowOnlyFirstTime" value="false" />
   </platform>
   <access origin="*" />
-  <allow-intent href="http://*/*" />
-  <allow-intent href="https://*/*" />
+  <allow-intent href="http://cors.io/*" />
+  <allow-intent href="https://cors.io/*" />
   <allow-intent href="tel:*" />
   <allow-intent href="sms:*" />
   <allow-intent href="mailto:*" />
