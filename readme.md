@@ -8,7 +8,7 @@
 
 Приложение cобрано под андроид. Сделана кастомная иконка. Локально тестировал через phonegap приложение, сборка сделана на [build.phonegap.com](https://build.phonegap.com/). При сборке обнаружил проблему с адаптацией canvas - в собранном приложении canvas не подстраивается под размеры экрана и обрезается, в то же время при тестировании через приложение phonegap адаптация происходит, причин такого поведения найти пока не смог.
 
-Ссылка на apk приложения: [apk](https://github.com/Ellaylone/htask4/releases/download/1.0.0/Silencer.apk)
+Ссылка на apk приложения: [apk](https://github.com/Ellaylone/htask4/releases/download/1.0.0/Silencer.apk).
 
 ### Скриншоты
 
